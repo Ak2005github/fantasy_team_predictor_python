@@ -1,0 +1,47 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data (Generated / Large)
+# =========================
+# Player-level generated data
+data/processed/players/
+Data_players/
+
+# Feature and merged artifacts
+*features*.csv
+merged_*.csv
+
+# =========================
+# Artifacts & Logs
+# =========================
+artifacts/
+logs/
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Temporary / Backup
+# =========================
+*.tmp
+*.bak
+*.swp
