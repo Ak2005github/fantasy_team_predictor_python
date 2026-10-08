@@ -45,3 +45,12 @@ Thumbs.db
 *.tmp
 *.bak
 *.swp
+
+# =========================
+# Pipeline outputs
+# =========================
+sort_gr_coun_full_name.csv
+catboost_info/
+data/resume.flag
+data/Ignitors_output.csv
+.pytest_cache/
