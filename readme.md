@@ -4,13 +4,6 @@
 
 **Predicts the highest-scoring Dream11 team for any IPL 2025 match**
 
-[![CI](https://github.com/Ak2005github/fantasy_team_predictor_python/actions/workflows/ci.yml/badge.svg)](https://github.com/Ak2005github/fantasy_team_predictor_python/actions/workflows/ci.yml)
-![Python](https://img.shields.io/badge/python-3.11-3776AB?logo=python&logoColor=white)
-![CatBoost](https://img.shields.io/badge/model-CatBoost-FFCC00)
-![Docker](https://img.shields.io/badge/docker-ready-2496ED?logo=docker&logoColor=white)
-
-🏆 National winners of **FIFS Gameathon 2.0** by Dream11 (top 10 of 650+ teams), as team **Ignitors**
-
 </div>
 
 ---
