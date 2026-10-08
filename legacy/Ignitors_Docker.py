@@ -1320,7 +1320,7 @@ def get_series_info(apikey, id):
         raise Exception(f"Failed to retrieve data: {response.status_code}")
 
 # API credentials
-apikey = "fd3c5552-00fe-4031-90b8-749af2a69d78"
+apikey = os.environ["CRICAPI_KEY"]  # export CRICAPI_KEY=<your key> before running
 id = "d5a498c8-7596-4b93-8ab0-e0efc3345312"
 
 # Get series match list
