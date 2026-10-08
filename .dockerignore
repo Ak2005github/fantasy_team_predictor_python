@@ -1,0 +1,15 @@
+.git
+.github
+legacy
+tests
+Data_players
+catboost_info
+merged_*.csv
+*features*.csv
+sort_gr_coun_full_name.csv
+data/resume.flag
+data/Ignitors_output.csv
+__pycache__
+.pytest_cache
+.venv
+venv
